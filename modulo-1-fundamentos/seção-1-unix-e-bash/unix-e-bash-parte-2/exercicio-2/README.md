@@ -14,4 +14,4 @@ Resultado esperado: -r--r--r-- 1 ana ana 1860 ago 13 11:39 `arquivo_teste.txt`
 
 - Volte à permissão do arquivo `arquivo_teste.txt` para a listada inicialmente utilizando o comando `chmod 644 arquivo_teste.txt`.
 
-Resultado esperado: -rw-r--r-- 1 ana ana 1860 ago 13 11:39 arquivo_teste.txt
+Resultado esperado: -rw-r--r-- 1 ana ana 1860 ago 13 11:39 `arquivo_teste.txt`.
